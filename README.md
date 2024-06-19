@@ -3,7 +3,7 @@ University's Assignment
 
 
 
-**Program:**
+## **Program:**
 ## Intro Page:
 https://github.com/Shen0003/Food-Ordering-System/assets/173021017/37a6a69d-0a8e-4442-92e2-a0f25c059046
 
@@ -22,6 +22,6 @@ Option Q:
 https://github.com/Shen0003/Food-Ordering-System/assets/173021017/ed80e7ce-2f61-437a-8d09-2ebaab92eb50
 
 
-**File for I/O:**
+## **File for I/O:**
 
 ![image](https://github.com/Shen0003/Food-Ordering-System/assets/173021017/7c92e653-ec54-4bdc-89dc-4bc8df9e7269)
