@@ -4,7 +4,7 @@ Assignment
 
 
 
-## Enter Page:
+## Intro Page:
 https://github.com/Shen0003/Food-Ordering-System/assets/173021017/37a6a69d-0a8e-4442-92e2-a0f25c059046
 
 
@@ -18,3 +18,5 @@ Option A: Food Menu Option
 Option B:
 
 Option C:
+https://github.com/Shen0003/Food-Ordering-System/assets/173021017/f4768b53-6908-4d25-a723-e9990684f282
+
