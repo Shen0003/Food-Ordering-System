@@ -17,6 +17,6 @@ Option A: Food Menu Option
 
 Option B:
 
-Option C:
-https://github.com/Shen0003/Food-Ordering-System/assets/173021017/f4768b53-6908-4d25-a723-e9990684f282
+Option Q:
+https://github.com/Shen0003/Food-Ordering-System/assets/173021017/90654787-67a2-41bb-9843-f777df50f7e7
 
