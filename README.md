@@ -1,31 +1,28 @@
-# Food-Ordering-System
-University's Assignment
+# Note-Taking-Application
+   ![note_icon_pub2](https://github.com/Shen0003/Note-Taking-Application/assets/173021017/4a2d21f1-6072-425f-af1c-ab809a0b4c4f)
+   
+**Note** is an Android application for creating, updating, and managing notes with a sleek and modern UI. The app offers several features such as multiple themes, a recycle bin for deleted notes, and a detailed note view.
+
+> [!IMPORTANT]
+> Please note that this application is still under closed testing phase, so it is now only **VISIBLE** to the **APPROVED** closed tester only on the **Google Play Store**.
+> Any closed tester are welcome to join the test by emailing to yongshen8@gmail.com for more information.
+
+## Features: (Shown in GIF below)
+### (I) Note Management
+   - Add Note: Easily create notes with a title, content, and automatically generated date.                                                                                                      
+![add1](https://github.com/Shen0003/Note-Taking-Application/assets/173021017/1735afa2-729d-41b0-a990-93af90ed3330)
+
+   - Update Note: Modify existing notes seamlessly.
 
 
-
-## **(I) Program:**
-##   Intro Page:
-https://github.com/Shen0003/Food-Ordering-System/assets/173021017/37a6a69d-0a8e-4442-92e2-a0f25c059046
+   - Delete Note: Move notes to the recycle bin instead of deleting them permanently, providing a safeguard against accidental deletions.
 
 
+### (II) Recycle Bin
+   - Restore Note: Restore deleted notes from the recycle bin to the main notes list.
 
-##   Main Page:
-![image](https://github.com/Shen0003/Food-Ordering-System/assets/173021017/52e8e557-8798-4c7b-80c1-ff64d0432eb2)
-
-
-  - Option A: Food Menu Option
-![image](https://github.com/Shen0003/Food-Ordering-System/assets/173021017/a96ad5f6-e883-4701-bbd1-7cffb777d1c6)
+   - Delete Note Forever: Permanently delete notes from the recycle bin.
 
 
-  - Option B: Transaction Option
-![image](https://github.com/Shen0003/Food-Ordering-System/assets/173021017/51bab570-a2b9-4bbd-a4b4-2459cf2ca1f6)
-
-
-  - Option Q: Quit Program
-
-https://github.com/Shen0003/Food-Ordering-System/assets/173021017/ed80e7ce-2f61-437a-8d09-2ebaab92eb50
-
-
-## **(II) File needed for I/O:**
-
-![image](https://github.com/Shen0003/Food-Ordering-System/assets/173021017/7c92e653-ec54-4bdc-89dc-4bc8df9e7269)
+### (III) Theme
+   - Theme Seection: Choose from the different themes to personalize the app's appearance, more to update soon.
