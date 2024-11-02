@@ -4,4 +4,5 @@
 - Implemented key functionalities including displaying menu, adding/updating/deleting menu items, and managing transactions. 
 - Utilized file I/O operations to persistently store menu and transaction data.
 <hr>
+
 Developed with C++
